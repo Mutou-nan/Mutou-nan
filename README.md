@@ -1,18 +1,6 @@
 ### Hi there 👋
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
-<p align="center">
-	<a href="https://github.com/Mutou-nan"><img src="imgs/github.svg" alt="GitHub"></a>
-	<a href="#"><img src="imgs/twitter.svg" alt="Twitter"></a>
-	<a href="#"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
-	<a href="#"><img src="imgs/sponsors.svg" alt="Sponsors"></a>
-	<a href="#"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
-	<a href="#"><img src="imgs/citations.svg" alt="Citations"></a>
-	<a href="https://www.zhihu.com/people/Mutu-nan"><img src="imgs/zhihu.svg" alt="知乎"></a>
-	<a href="#"><img src="imgs/weibo.svg" alt="微博"></a>
-</p>
-
-
 ![](https://github-readme-stats.vercel.app/api?username=Mutou-nan)
 
 <p align="center">
@@ -43,6 +31,15 @@
   <a href="#"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
 </p>
 
-
+<p align="center">
+	<a href="https://github.com/Mutou-nan"><img src="imgs/github.svg" alt="GitHub"></a>
+	<a href="#"><img src="imgs/twitter.svg" alt="Twitter"></a>
+	<a href="#"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+	<a href="#"><img src="imgs/sponsors.svg" alt="Sponsors"></a>
+	<a href="#"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
+	<a href="#"><img src="imgs/citations.svg" alt="Citations"></a>
+	<a href="https://www.zhihu.com/people/Mutu-nan"><img src="imgs/zhihu.svg" alt="知乎"></a>
+	<a href="#"><img src="imgs/weibo.svg" alt="微博"></a>
+</p>
 
 
