@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
-![](https://github-readme-stats.vercel.app/api?username=Mutou-nan)
+![](https://github-readme-stats.vercel.app/api?username=Mutu-nan)
 
 <p align="center">
   <a href="#"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a>
@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-	<a href="https://github.com/Mutou-nan"><img src="imgs/github.svg" alt="GitHub"></a>
+	<a href="https://github.com/Mutu-nan"><img src="imgs/github.svg" alt="GitHub"></a>
 	<a href="#"><img src="imgs/twitter.svg" alt="Twitter"></a>
 	<a href="#"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
 	<a href="#"><img src="imgs/sponsors.svg" alt="Sponsors"></a>
